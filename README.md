@@ -37,7 +37,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 7. **Final Deliverables**
    - Python notebook
    - Confusion matrix plot
-   - 2-page final report
+   - Final report
 
 ---
 
